@@ -71,7 +71,8 @@ Then select the file shell.phtml and upload it
 
 Now, after uploading go to http://<target.ip>/uploads/
 
-and click on sheel.pthml and look to you lisner 
+and click on sheel.pthml 
+and look to you lisner 
 
 
 <img width="918" height="712" alt="Screenshot 2026-01-08 151541" src="https://github.com/user-attachments/assets/2fb25863-bd79-40eb-901a-dae4757c4ad1" />
